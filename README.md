@@ -1,4 +1,4 @@
-# 💬 SecureChat
+<# 💬 SecureChat
 
 A desktop chat application built with **Python** and **Tkinter**, featuring user authentication, multiple chat rooms, multimedia sharing, message history, notifications, emoji support, and message encryption.
 
@@ -84,3 +84,7 @@ These are excluded via `.gitignore` since they contain user data and secrets.
 ## 📄 License
 
 This project is open source and available for learning purposes.
+=======
+# OIBSIP_Python_Task1
+"Advanced Python Chat Application with GUI, encryption, and multimedia sharing"
+
