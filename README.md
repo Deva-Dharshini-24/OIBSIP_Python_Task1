@@ -1,4 +1,4 @@
-<# 💬 SecureChat
+ 💬 SecureChat
 
 A desktop chat application built with **Python** and **Tkinter**, featuring user authentication, multiple chat rooms, multimedia sharing, message history, notifications, emoji support, and message encryption.
 
