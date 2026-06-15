@@ -99,18 +99,9 @@ python advanced_chat_app.py
 - Enter a username and password
 - Switch to **Sign In** and log in with the same credentials
 
----
-
-## 📦 Requirements (requirements.txt)
-
-```
-Pillow
-cryptography
 ```
 
 > Tkinter and SQLite3 come built-in with Python — no separate install needed.
-
----
 
 ---
 
