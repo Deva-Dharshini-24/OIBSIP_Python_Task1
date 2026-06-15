@@ -1,11 +1,5 @@
 # 💬 SecureChat — Advanced Python Chat Application
 
-> **Intern Name:** Your Name Here
-> **Task Number:** Task 1
-> **Domain:** Python Development
-> **Organization:** Oasis Infobyte
-> **Submission Date:** June 2025
-
 ---
 
 ## 🎯 Objective
@@ -118,10 +112,6 @@ cryptography
 
 ---
 
-## 📸 Screenshots
-
-![SecureChat GUI](./assets/screenshot.png)
-
 ---
 
 ## 🎬 Demo Video
@@ -165,10 +155,5 @@ A fully working secure desktop chat application that demonstrates:
 
 ---
 
-## 📝 File Naming Convention (As per OIBSIP Guidelines)
-
-YourName_Task1 — e.g., RaviKumar_Task1
-
----
 
 Submitted as part of the Oasis Infobyte Python Internship — OIBSIP
