@@ -152,10 +152,4 @@ A fully working secure desktop chat application that demonstrates:
 
 ---
 
-## 📝 File Naming Convention (As per OIBSIP Guidelines)
-
-YourName_Task1 — e.g., RaviKumar_Task1
-
----
-
 Submitted as part of the Oasis Infobyte Python Internship — OIBSIP
