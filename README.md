@@ -1,11 +1,5 @@
 # 💬 SecureChat — Advanced Python Chat Application
 
-> **Intern Name:** Your Name Here
-> **Task Number:** Task 1
-> **Domain:** Python Development
-> **Organization:** Oasis Infobyte
-> **Submission Date:** June 2025
-
 ---
 
 ## 🎯 Objective
@@ -118,15 +112,8 @@ cryptography
 
 ---
 
-## 📸 Screenshots
-
-![SecureChat GUI](./assets/screenshot.png)
-
----
-
 ## 🎬 Demo Video
 
-YouTube Demo: [Insert YouTube Link Here]
 LinkedIn Post: [Insert LinkedIn Post Link Here]
 
 ---
